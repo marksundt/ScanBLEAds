@@ -1,0 +1,18 @@
+{
+  "name": "scanbleads",
+  "version": "1.0.0",
+  "description": "Scan BLE Ads using Noble lib",
+  "main": "scanservices.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BLE",
+    "Noble"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noble": "^1.6.0"
+  }
+}
